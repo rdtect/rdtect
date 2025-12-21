@@ -124,3 +124,5 @@ Kolkata → B.Arch (SMVDU Jammu) → Prof. Ravindra Bhan (landscape pioneer)
 <!-- activity: 2025-12-01T17:28:00 -->
 
 <!-- activity: 2025-12-08T11:34:00 -->
+
+<!-- activity: 2025-12-21T16:22:00 -->
