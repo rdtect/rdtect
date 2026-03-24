@@ -51,3 +51,7 @@ Creator of the **MRAX Framework** — a cognitive architecture for organizing wo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rdtect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rdtect)
 [![X](https://img.shields.io/badge/@rdtect-000?style=flat-square&logo=x&logoColor=white)](https://x.com/rdtect)
 [![Web](https://img.shields.io/badge/rdtect.com-333?style=flat-square&logo=safari&logoColor=white)](https://rdtect.com)
+
+<!-- GitHub stats - uncomment when ready
+![Rick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdtect&show_icons=true&theme=dark&hide_border=true)
+-->
