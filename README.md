@@ -1,6 +1,8 @@
 # Hey, I'm Rick 👋
 
-**Architect → AI.** I build products using design thinking, systems architecture, and emergent technology.
+**Solutions Architect · Emergent Tech · AI Agent Orchestration · Creative Technologist**
+
+I build products using design thinking, systems architecture, and emergent technology. From physical buildings to digital systems — the thinking is the same.
 
 > *"My blueprints compile, my structures are responsive, and my buildings can think."*
 
