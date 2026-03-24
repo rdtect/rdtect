@@ -1,272 +1,55 @@
-# Hey, I'm Rick 👋
+# Rick De
 
-**Solutions Architect · Emergent Tech · AI Agent Orchestration · Creative Technologist**
+**Solutions Architect · AI Agent Orchestration · Creative Technologist**
 
-I build products using design thinking, systems architecture, and emergent technology. From physical buildings to digital systems — the thinking is the same.
-
-> *"My blueprints compile, my structures are responsive, and my buildings can think."*
+Architecting digital experiences at the intersection of design thinking, systems architecture, and emergent technology. 10+ years in architecture and spatial design, 5+ in tech — bringing architectural rigor to software systems and AI.
 
 ---
 
-### What I Do
+### Current
 
-🏢 **Associate Director, Digital Experience** at [Zyeta](https://zyeta.com) — heading DX, leading AI initiatives, building future-ready workspaces
+**Associate Director, Digital Experience** at [Zyeta](https://zyeta.com)
+Leading DX initiatives and AI integration for one of India's top workspace design firms.
 
-🔬 **RapidAI** at [rgbwaves](https://rgbwaves.com) — encoding my father's 45 years of reliability engineering into a physics-grounded AI engine (454 rules, 5-module pipeline)
+**RapidAI** at [rgbwaves](https://rgbwaves.com)
+Building a physics-grounded condition intelligence engine for industrial machinery — 454 diagnostic rules, 5-module pipeline.
 
-🧠 **MRAX Framework** creator — a cognitive architecture for organizing work, code, and knowledge. Inspired by my father's NEME (Notice · Engage · Mull · Exchange)
+---
 
-### Recent Work
+### Selected Work
 
-| Project | What | Stack |
-|---------|------|-------|
-| **[AI Quiz v4](https://z-quiz.rdtect.workers.dev)** | 8-layer anti-hallucination architecture. 886 tests. 0% hallucination. | SvelteKit 5 · Cloudflare Workers · Gemini |
-| **Aero Dynamic Window** | Circadian airplane window for office wellbeing | SvelteKit · Cesium · Three.js · GLSL · RPi5 |
-| **Zyeta Live** | 85.2% survey completion (vs 45% industry avg) | SvelteKit · Real-time |
-| **[rdtect OS](https://rdtect.com)** | Browser-based desktop environment | SvelteKit 5 · Bun · PocketBase · 25 plugins |
-| **ILM** | World's first NFT crowd-funded Bollywood movie (Disney+ Hotstar) | Web3 · Smart Contracts |
+| Project | Impact |
+|---------|--------|
+| **AI Quiz v4** | 8-layer anti-hallucination architecture · 886 tests · 0% hallucination rate · [Live →](https://z-quiz.rdtect.workers.dev) |
+| **Zyeta Live** | 85.2% survey completion vs 45% industry average · 200+ concurrent users |
+| **Aero Dynamic Window** | Circadian display for workplace wellbeing · Cesium + GLSL + Raspberry Pi |
+| **rdtect OS** | Browser-based desktop environment · 25 plugins · [Live →](https://rdtect.com) |
+| **ILM** | World's first NFT crowd-funded Bollywood movie · Now on Disney+ Hotstar |
 
-### My Stack
+---
+
+### Stack
 
 ```
-Frontend    SvelteKit 5 · Svelte 5 runes · Three.js · Cesium · Tailwind v4
+Frontend    SvelteKit 5 · Svelte 5 · Three.js · Cesium · Tailwind v4
 Backend     Python FastAPI · TypeScript · PocketBase
 Platform    Cloudflare Workers · D1 · R2 · Vectorize · Coolify
-AI          Claude Code (20 agents) · Gemini · Ollama · Fal.ai
-3D          Blender · GLSL shaders · WebVR/A-Frame
-Design      Figma · Affinity Suite · ArchiSketch
+AI          Claude Code · Gemini · Ollama · Fal.ai
+3D/XR       Blender · GLSL · WebVR/A-Frame
 ```
 
-### My AI Philosophy
+---
 
-I manage a team of **20 AI agents** — architect, council, researchers, reviewers, designers, testers — coordinated through Claude Code with tmux agent teams. My approach:
+### Approach
 
-- **AI is an intern, not a master** — domain knowledge is the real leverage
-- **Think in systems, not prompts** — if you can make a plan, you can use AI
-- **The Double Diamond** — diverge/converge is the skill. Architecture taught me this.
-- **Obsidian as shared mind** — human memory meets AI memory
+I apply architectural thinking to AI systems — the same design principles that govern physical spaces apply to digital ones. Systems thinking, pattern recognition, and the ability to work at multiple scales simultaneously.
 
-> *"The best AI users don't write better prompts. They ask better questions."*
+Creator of the **MRAX Framework** — a cognitive architecture for organizing work, code, and knowledge.
 
-### Background
-
-```
-Kolkata → B.Arch (SMVDU Jammu) → Prof. Ravindra Bhan (landscape pioneer)
-→ Teaching (DIT Dehradun + Manav Rachna) → Studio ArcX with Idha (7 years)
-→ QuantLabs co-founder (Web3/Metaverse) → Omnicom/BBDO (DX Manager)
-→ MIT ID Design Thinking → Zyeta (Director of DX) + rgbwaves (RapidAI)
-```
+---
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rdtect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rdtect)
-[![X](https://img.shields.io/badge/X-@rdtect-black?style=flat&logo=x)](https://x.com/rdtect)
-[![Website](https://img.shields.io/badge/Website-rdtect.com-green?style=flat&logo=safari)](https://rdtect.com)
-
----
-
-<sub>*rdtect = Rick De + Architect. The handle tells the story.*</sub>
-
-<!-- activity: 2025-09-02T11:59:00 -->
-
-<!-- activity: 2025-09-10T10:36:00 -->
-
-<!-- activity: 2025-09-12T11:26:00 -->
-
-<!-- activity: 2025-09-18T19:44:00 -->
-
-<!-- activity: 2025-09-20T18:15:00 -->
-
-<!-- activity: 2025-09-24T09:16:00 -->
-
-<!-- activity: 2025-09-26T22:43:00 -->
-
-<!-- activity: 2025-09-29T10:58:00 -->
-
-<!-- activity: 2025-10-03T14:05:00 -->
-
-<!-- activity: 2025-10-07T12:11:00 -->
-
-<!-- activity: 2025-10-09T10:22:00 -->
-
-<!-- activity: 2025-10-12T13:19:00 -->
-
-<!-- activity: 2025-10-15T11:20:00 -->
-
-<!-- activity: 2025-10-15T14:44:00 -->
-
-<!-- activity: 2025-10-16T09:30:00 -->
-
-<!-- activity: 2025-10-20T11:54:00 -->
-
-<!-- activity: 2025-10-22T14:53:00 -->
-
-<!-- activity: 2025-10-22T20:15:00 -->
-
-<!-- activity: 2025-10-27T10:41:00 -->
-
-<!-- activity: 2025-11-02T11:00:00 -->
-
-<!-- activity: 2025-11-02T18:32:00 -->
-
-<!-- activity: 2025-11-03T12:31:00 -->
-
-<!-- activity: 2025-11-06T10:00:00 -->
-
-<!-- activity: 2025-11-13T20:28:00 -->
-
-<!-- activity: 2025-11-21T15:53:00 -->
-
-<!-- activity: 2025-11-24T15:09:00 -->
-
-<!-- activity: 2025-11-24T16:35:00 -->
-
-<!-- activity: 2025-12-01T17:28:00 -->
-
-<!-- activity: 2025-12-08T11:34:00 -->
-
-<!-- activity: 2025-12-21T16:22:00 -->
-
-<!-- activity: 2025-12-23T12:18:00 -->
-
-<!-- activity: 2025-12-24T09:42:00 -->
-
-<!-- activity: 2025-12-29T12:58:00 -->
-
-<!-- activity: 2025-12-30T09:13:00 -->
-
-<!-- activity: 2026-01-06T13:20:00 -->
-
-<!-- activity: 2026-01-09T18:26:00 -->
-
-<!-- activity: 2026-01-15T12:55:00 -->
-
-<!-- activity: 2026-01-23T17:28:00 -->
-
-<!-- activity: 2026-01-23T18:42:00 -->
-
-<!-- activity: 2026-01-26T22:45:00 -->
-
-<!-- activity: 2026-01-31T21:02:00 -->
-
-<!-- activity: 2026-02-01T17:38:00 -->
-
-<!-- activity: 2026-02-04T17:18:00 -->
-
-<!-- activity: 2026-02-07T15:01:00 -->
-
-<!-- activity: 2026-02-09T12:02:00 -->
-
-<!-- activity: 2026-02-10T21:00:00 -->
-
-<!-- activity: 2026-02-18T18:31:00 -->
-
-<!-- activity: 2026-02-20T11:57:00 -->
-
-<!-- activity: 2026-02-25T18:21:00 -->
-
-<!-- activity: 2026-03-08T18:17:00 -->
-
-<!-- activity: 2026-03-09T16:21:00 -->
-
-<!-- activity: 2026-03-11T19:07:00 -->
-
-<!-- activity: 2026-03-12T15:07:00 -->
-
-<!-- activity: 2026-03-18T18:38:00 -->
-
-<!-- activity: 2026-03-19T18:01:00 -->
-
-<!-- activity: 2025-04-04T18:25:00 -->
-
-<!-- activity: 2025-04-06T09:52:00 -->
-
-<!-- activity: 2025-04-07T12:22:00 -->
-
-<!-- activity: 2025-04-08T19:16:00 -->
-
-<!-- activity: 2025-04-11T19:39:00 -->
-
-<!-- activity: 2025-04-13T12:08:00 -->
-
-<!-- activity: 2025-04-18T19:22:00 -->
-
-<!-- activity: 2025-04-19T20:17:00 -->
-
-<!-- activity: 2025-04-20T17:44:00 -->
-
-<!-- activity: 2025-04-23T22:01:00 -->
-
-<!-- activity: 2025-04-24T16:46:00 -->
-
-<!-- activity: 2025-05-05T09:59:00 -->
-
-<!-- activity: 2025-05-06T16:41:00 -->
-
-<!-- activity: 2025-05-12T14:44:00 -->
-
-<!-- activity: 2025-05-15T18:48:00 -->
-
-<!-- activity: 2025-05-17T19:50:00 -->
-
-<!-- activity: 2025-05-19T19:29:00 -->
-
-<!-- activity: 2025-05-21T15:11:00 -->
-
-<!-- activity: 2025-05-23T21:37:00 -->
-
-<!-- activity: 2025-05-27T16:18:00 -->
-
-<!-- activity: 2025-05-29T19:48:00 -->
-
-<!-- activity: 2025-05-30T17:12:00 -->
-
-<!-- activity: 2025-06-07T09:21:00 -->
-
-<!-- activity: 2025-06-12T10:44:00 -->
-
-<!-- activity: 2025-06-12T17:36:00 -->
-
-<!-- activity: 2025-06-17T21:24:00 -->
-
-<!-- activity: 2025-06-19T13:27:00 -->
-
-<!-- activity: 2025-06-27T18:47:00 -->
-
-<!-- activity: 2025-06-30T17:28:00 -->
-
-<!-- activity: 2025-07-04T12:50:00 -->
-
-<!-- activity: 2025-07-06T12:28:00 -->
-
-<!-- activity: 2025-07-09T09:35:00 -->
-
-<!-- activity: 2025-07-09T13:21:00 -->
-
-<!-- activity: 2025-07-16T16:55:00 -->
-
-<!-- activity: 2025-07-18T10:02:00 -->
-
-<!-- activity: 2025-07-22T22:19:00 -->
-
-<!-- activity: 2025-07-30T17:40:00 -->
-
-<!-- activity: 2025-08-05T19:20:00 -->
-
-<!-- activity: 2025-08-08T21:24:00 -->
-
-<!-- activity: 2025-08-09T10:25:00 -->
-
-<!-- activity: 2025-08-13T14:40:00 -->
-
-<!-- activity: 2025-08-14T12:59:00 -->
-
-<!-- activity: 2025-08-14T16:10:00 -->
-
-<!-- activity: 2025-08-21T17:10:00 -->
-
-<!-- activity: 2025-08-21T22:06:00 -->
-
-<!-- activity: 2025-08-23T21:33:00 -->
-
-<!-- activity: 2025-08-26T22:29:00 -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rdtect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rdtect)
+[![X](https://img.shields.io/badge/@rdtect-000?style=flat-square&logo=x&logoColor=white)](https://x.com/rdtect)
+[![Web](https://img.shields.io/badge/rdtect.com-333?style=flat-square&logo=safari&logoColor=white)](https://rdtect.com)
