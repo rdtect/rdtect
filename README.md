@@ -1,18 +1,16 @@
 # Rick De
 
-**Solutions Architect · AI Agent Orchestration · Creative Technologist**
+**Solutions Architect · AI Systems · Creative Technologist**
 
-Architecting digital experiences at the intersection of design thinking, systems architecture, and emergent technology. 10+ years in architecture and spatial design, 5+ in tech — bringing architectural rigor to software systems and AI.
+I strategize, build, and ship. Product design at the intersection of technology, design, and business — with 10+ years in architecture and 5+ in tech.
 
 ---
 
 ### Current
 
-**Associate Director, Digital Experience** at [Zyeta](https://zyeta.com)
-Leading DX initiatives and AI integration for one of India's top workspace design firms.
+**Associate Director, Digital Experience** at [Zyeta](https://zyeta.com) — DX and AI integration for India's top workspace design firms
 
-**RapidAI** at [rgbwaves](https://rgbwaves.com)
-Building a physics-grounded condition intelligence engine for industrial machinery — 454 diagnostic rules, 5-module pipeline.
+**RapidAI** at [rgbwaves](https://rgbwaves.com) — Physics-grounded condition intelligence for industrial machinery · 454 rules · 5-module pipeline
 
 ---
 
@@ -42,7 +40,7 @@ AI          Claude Code · Gemini · Ollama · Fal.ai
 
 ### Approach
 
-I apply architectural thinking to AI systems — the same design principles that govern physical spaces apply to digital ones. Systems thinking, pattern recognition, and the ability to work at multiple scales simultaneously.
+Architectural thinking applied to AI systems — the same principles that govern physical spaces apply to digital ones. Vision → strategy → build → ship.
 
 Creator of the **MRAX Framework** — a cognitive architecture for organizing work, code, and knowledge.
 
