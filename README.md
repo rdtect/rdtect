@@ -61,7 +61,6 @@ Kolkata → B.Arch (SMVDU Jammu) → Prof. Ravindra Bhan (landscape pioneer)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rdtect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rdtect)
 [![X](https://img.shields.io/badge/X-@rdtect-black?style=flat&logo=x)](https://x.com/rdtect)
-[![Behance](https://img.shields.io/badge/Behance-rdtect-1769FF?style=flat&logo=behance)](https://behance.net/rdtect)
 [![Website](https://img.shields.io/badge/Website-rdtect.com-green?style=flat&logo=safari)](https://rdtect.com)
 
 ---
